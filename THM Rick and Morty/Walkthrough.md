@@ -1,5 +1,10 @@
 # THM Pickle Rick Walkthrough  
 
+Author: DarkRose Security
+Date: 3/23/2026
+Platform: Tryhackme
+Focus: Web exploitation, Privilege Escalation
+
 ## Intro  
 This Rick and Morty themed room focuses on exploiting a web server to find 3 ingredients (flags) needed to turn Rick back into a human. These are the tools we will be using for this box.  
 # Tools Used
